@@ -27,7 +27,7 @@
     }
 </script>
 <style>
-    p.taska {
+    p.tasks {
         text-align: center;
     }
 </style>
